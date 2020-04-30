@@ -1,0 +1,9 @@
+{
+  "UPSWithSchema":{
+    "object_owner":{
+      "roles": [
+		"GRANTWithSELECTonBASKETANALYSISDATA"
+	  ]
+    }
+ }
+}

@@ -1,0 +1,34 @@
+{
+  "TLOGF": {
+    "target": {
+      "object": "TLOGF",
+      "schema.configure": "UPSWithSchema/schema"
+    }
+  },
+    "PRODUCTBUNDLING": {
+    "target": {
+      "object": "TLOGF_B",
+      "schema.configure": "UPSWithSchema/schema"
+    }
+  }
+  ,
+    "SalesDataCurrent": {
+    "target": {
+      "object": "TLOGF_C",
+      "schema.configure": "UPSWithSchema/schema"
+    }
+  }, 
+    "SalesDataHistory": {
+    "target": {
+      "object": "TLOGF_H",
+      "schema.configure": "UPSWithSchema/schema"
+    }
+  }
+  , 
+    "SalesDataOnline": {
+    "target": {
+      "object": "TLOGF_O",
+      "schema.configure": "UPSWithSchema/schema"
+    }
+  }
+}
